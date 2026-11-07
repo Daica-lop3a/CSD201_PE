@@ -1,0 +1,5 @@
+>>> Testing f3: Inserting songs into the library...
+
+--- Final State of Library ---
+--- Song Library (In-Order) ---
+Empty
